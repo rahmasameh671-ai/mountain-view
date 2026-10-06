@@ -1,5 +1,5 @@
 /**
- * Mountain View Luxury Developments - properties-e
+ * Mountain View Luxury Developments - properties-z.com
  * High-Conversion Interactive JavaScript
  * Form Handling, Lead Routing & Live Zapier Webhook Integration
  * Preserving lead routing to: Rahma@irtkaz.com, Mostafa.a.ashmawy@gmail.com, Mostafa.ashmawy@irtkaz.com
@@ -94,7 +94,7 @@ function initFormHandler() {
       landingPageUrl: window.location.href,
       submissionDate: new Date().toISOString(),
       countryCode: countryCode,
-      consultancy: 'properties-e',
+      consultancy: 'properties-z.com',
       leadRoutingEmails: LEAD_RECIPIENTS,
       recipientEmails: LEAD_RECIPIENTS.join(', '),
       to: LEAD_RECIPIENTS.join(', '),
@@ -211,7 +211,7 @@ function showSuccessModal(name, phone) {
   const waBtn = modal.querySelector('.btn-modal-wa');
   if (waBtn) {
     const encodedMsg = encodeURIComponent(
-      `Hello properties-e, I just submitted an inquiry for Mountain View residences. My name is ${name} (${phone}).`
+      `Hello properties-z.com, I just submitted an inquiry for Mountain View residences. My name is ${name} (${phone}).`
     );
     waBtn.href = `https://wa.me/${WHATSAPP_INTL}?text=${encodedMsg}`;
   }

@@ -1,7 +1,7 @@
 # Mountain View Luxury Portfolio & Developments
 
 **Live Landing Page Redesign & Editorial Architecture**  
-By **properties-e** • Strategic Real Estate Partners
+By **properties-z.com** &bull; Strategic Real Estate Partners
 
 ---
 
@@ -9,11 +9,11 @@ By **properties-e** • Strategic Real Estate Partners
 This repository contains the complete responsive landing page for the **Mountain View Luxury Portfolio** across New Cairo and Mostakbal City, showcasing ready-to-move and off-plan residences directly from the developer with zero brokerage fees.
 
 ### Featured Developments
-1. **Mountain View 1.1** (Golden Square, New Cairo) — Fully finished residences & signature villas from 14.5M EGP.
-2. **Mountain View iCity** (New Cairo) — 4D car-free living, i-Villas, and sky villas from 15.0M EGP.
-3. **Mountain View Hyde Park** (90th St, New Cairo) — 200 acres of greenery and central park vistas from 28.0M EGP.
-4. **Mountain View ALIVA** (Mostakbal City Corridor) — City of experiences and swimmable lagoons from 12.0M EGP.
-5. **Mountain View Grand Valleys** (New Cairo Prestige District) — Private valley mansions from 30.4M EGP.
+1. **Mountain View 1.1** (Golden Square, New Cairo) &mdash; Fully finished residences & signature villas from 14.5M EGP.
+2. **Mountain View iCity** (New Cairo) &mdash; 4D car-free living, i-Villas, and sky villas from 15.0M EGP.
+3. **Mountain View Hyde Park** (90th St, New Cairo) &mdash; 200 acres of greenery and central park vistas from 28.0M EGP.
+4. **Mountain View ALIVA** (Mostakbal City Corridor) &mdash; City of experiences and swimmable lagoons from 12.0M EGP.
+5. **Mountain View Grand Valleys** (New Cairo Prestige District) &mdash; Private valley mansions from 30.4M EGP.
 
 ---
 
@@ -47,4 +47,4 @@ This repository contains the complete responsive landing page for the **Mountain
   * `privacy-policy.html`
   * `terms-conditions.html`
 
-© 2026 properties-e — Strategic Partners. All Rights Reserved.
+&copy; 2026 properties-z.com &mdash; Strategic Partners. All Rights Reserved.
